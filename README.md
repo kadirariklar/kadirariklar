@@ -11,20 +11,20 @@
   <span style="font-weight: bold; color: #FFC107;">CNCF Golden Kubestronaut</span>
 </p>
 
-## 💫 About Me
+## About Me
 Site Reliability & DevOps Engineer passionate about cloud-native technologies, Kubernetes, and automation. I enjoy designing reliable, observable and secure platforms, and continuously improving delivery pipelines and infrastructure on AWS and Kubernetes.
 
 <p align="center" style="margin-top: 20px; margin-bottom: 30px;">
   <img src="https://komarev.com/ghpvc/?username=kadirariklar&color=blueviolet&style=flat-square">
 </p>
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 30px;">
   <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,gitlab,github,jenkins,azure,terraform,ansible,prometheus,grafana,elasticsearch" />
   <img src="https://skillicons.dev/icons?i=python,bash,linux,postgres,nginx,redis" />
 </p>
 
-## 🧾 Highlights & Certifications
+## Highlights & Certifications
 
 - **Golden Kubestronaut – CNCF**
 - **CKA, CKAD, CKS, KCNA, KCSA, PCA, ICA, CCA, CAPA, CGOA, CBA, OTCA, KCA, CNPA, CNPE and LFCS**
@@ -34,14 +34,14 @@ Site Reliability & DevOps Engineer passionate about cloud-native technologies, K
 
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center" style="display:flex; flex-wrap: wrap; gap:20px; align-items:center; justify-content:center; margin-top: 20px; margin-bottom: 30px;">
   <img height="200" width="345" src="https://github-readme-stats.vercel.app/api?username=kadirariklar&show_icons=true&theme=tokyonight&hide_rank=true" />
   <img height="200" width="405" src="https://github-readme-streak-stats.herokuapp.com/?user=kadirariklar&theme=tokyonight" />
 </p>
 
 
-## 📈 Activity Graph
+## Activity Graph
 <p align="center" style="margin-top: 20px;">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kadirariklar&theme=tokyo-night" alt="Kadir's github activity graph" style="max-width: 100%;"/>
