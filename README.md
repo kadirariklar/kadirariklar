@@ -8,8 +8,6 @@
 </p>
 
 <p align="center" style="margin-top: 10px; margin-bottom: 10px;">
-  <img src="https://training.linuxfoundation.org/certification/golden-kubestronaut-bundle/" alt="Golden Kubestronaut" height="140" />
-  <br />
   <span style="font-weight: bold; color: #FFC107;">CNCF Golden Kubestronaut</span>
 </p>
 
